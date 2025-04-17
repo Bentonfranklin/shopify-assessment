@@ -1,7 +1,7 @@
 import {Link} from '@remix-run/react';
-import supplementsImage from '../assets/articles/Rectangle 460.png';
-import inflammationImage from '../assets/articles/Rectangle 461.png';
-import sleepImage from '../assets/articles/Rectangle 461 (1).png';
+import supplementsImage from '/articles/Rectangle 460.png';
+import inflammationImage from '/articles/Rectangle 461.png';
+import sleepImage from '/articles/Rectangle 461 (1).png';
 
 export function LatestArticles() {
   const articles = [

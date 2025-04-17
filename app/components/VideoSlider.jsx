@@ -8,16 +8,16 @@ import {
   BsVolumeMute,
   BsVolumeUp,
 } from 'react-icons/bs';
-import video1 from '../assets/videos/-46be-4abb-a537-bca74f36620b.mp4';
-import video2 from '../assets/videos/-5c60-4fd6-bd97-5e11b18fd957.mp4';
-import video3 from '../assets/videos/-5975-42db-b6b9-f4ec19c2db5d.mp4';
-import video4 from '../assets/videos/-61dd-45dc-96ec-34c9d5e96e27.mp4';
-import video5 from '../assets/videos/-b4e0-4ff1-b497-9ddb3e7b4fc0.mp4';
-import video6 from '../assets/videos/-bb38-4e5f-8d0e-3748404fcf3e.mp4';
+import video1 from '/videos/video1.mp4';
+import video2 from '/videos/video2.mp4';
+import video3 from '/videos/video3.mp4';
+import video4 from '/videos/video4.mp4';
+import video5 from '/videos/video5.mp4';
+import video6 from '/videos/video6.mp4';
 import ArrowRightIcon from './icons/ArrowRightIcon';
 import ArrowLeftIcon from './icons/ArrowLeftIcon';
 import {Link} from '@remix-run/react';
-import magnesiumImage from '../assets/productsuppliment/Image (11).png';
+import magnesiumImage from '/productsuppliment/Image (11).png';
 import PlusIcon from './icons/PlusIcon';
 
 const SUPPLEMENTS_DATA = [

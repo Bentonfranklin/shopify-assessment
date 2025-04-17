@@ -1,14 +1,14 @@
 import {Link} from '@remix-run/react';
-import image1 from '../assets/imagegrid/Image (1).png';
-import image2 from '../assets/imagegrid/Image (2).png';
-import image3 from '../assets/imagegrid/Image (3).png';
-import image4 from '../assets/imagegrid/Image (4).png';
-import image5 from '../assets/imagegrid/Image (5).png';
-import image6 from '../assets/imagegrid/Image (6).png';
-import image7 from '../assets/imagegrid/Image (7).png';
-import image8 from '../assets/imagegrid/Image (8).png';
-import image9 from '../assets/imagegrid/Image (9).png';
-import image10 from '../assets/imagegrid/Image.png';
+import image1 from '/imagegrid/Image (1).png';
+import image2 from '/imagegrid/Image (2).png';
+import image3 from '/imagegrid/Image (3).png';
+import image4 from '/imagegrid/Image (4).png';
+import image5 from '/imagegrid/Image (5).png';
+import image6 from '/imagegrid/Image (6).png';
+import image7 from '/imagegrid/Image (7).png';
+import image8 from '/imagegrid/Image (8).png';
+import image9 from '/imagegrid/Image (9).png';
+import image10 from '/imagegrid/Image.png';
 
 const INSTAGRAM_POSTS = [
   {

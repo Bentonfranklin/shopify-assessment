@@ -1,8 +1,8 @@
 import {Link} from '@remix-run/react';
-import tongkatImage from '../assets/bundles/Image (15).png';
-import maleHormoneImage from '../assets/bundles/Image (16).png';
-import sleepBundleImage from '../assets/bundles/Image (17).png';
-import preLotionImage from '../assets/bundles/Image (18).png';
+import tongkatImage from '/bundles/Image (15).png';
+import maleHormoneImage from '/bundles/Image (16).png';
+import sleepBundleImage from '/bundles/Image (17).png';
+import preLotionImage from '/bundles/Image (18).png';
 import ArrowLeftIcon from './icons/ArrowLeftIcon';
 import ArrowRightIcon from './icons/ArrowRightIcon';
 import {useState} from 'react';

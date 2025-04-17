@@ -2,10 +2,10 @@ import {Link} from '@remix-run/react';
 import {Image} from '@shopify/hydrogen';
 import ArrowLeftIcon from './icons/ArrowLeftIcon';
 import ArrowRightIcon from './icons/ArrowRightIcon';
-import omega3Image from '../assets/productsuppliment/Image (10).png';
-import magnesiumImage from '../assets/productsuppliment/Image (11).png';
-import wheyProteinImage from '../assets/productsuppliment/Image (12).png';
-import complexImage from '../assets/productsuppliment/Image (13).png';
+import omega3Image from '/productsuppliment/Image (10).png';
+import magnesiumImage from '/productsuppliment/Image (11).png';
+import wheyProteinImage from '/productsuppliment/Image (12).png';
+import complexImage from '/productsuppliment/Image (13).png';
 
 const SUPPLEMENTS_DATA = [
   {

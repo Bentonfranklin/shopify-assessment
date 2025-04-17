@@ -5,7 +5,7 @@ export function BathtubHero() {
     <div className="relative w-full min-h-[800px] overflow-hidden flex items-center mb-5 ">
       <div className="absolute inset-0 py-7">
         <Image
-          src="/app/assets/Rectangle 478.png"
+          src="/Rectangle 478.png"
           className="w-full h-full object-cover"
           alt="Desert landscape with modern bathtub"
           sizes="100vw"

@@ -14,7 +14,7 @@ export default function CustomProteinPowder() {
             {/* Left Column - Product Image */}
             <div className="flex justify-center items-center">
               <img
-                src="/app/assets/Image (14).png"
+                src="/Image (14).png"
                 alt="Protein Powder Package"
                 className="object-contain w-[200px] sm:w-[300px]"
               />
