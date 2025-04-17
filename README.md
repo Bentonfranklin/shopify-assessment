@@ -1,27 +1,53 @@
-# Hydrogen template: Skeleton
+# UNCMFRT - Health & Wellness E-commerce
 
-Hydrogen is Shopify’s stack for headless commerce. Hydrogen is designed to dovetail with [Remix](https://remix.run/), Shopify’s full stack web framework. This template contains a **minimal setup** of components, queries and tooling to get started with Hydrogen.
+A modern e-commerce platform built for health and wellness products, focusing on supplements, protein powders, and fitness essentials. This assessment project demonstrates the implementation of a fully functional e-commerce solution using Shopify's Hydrogen framework and Remix.
 
-[Check out Hydrogen docs](https://shopify.dev/custom-storefronts/hydrogen)
-[Get familiar with Remix](https://remix.run/docs/en/v1)
+## Project Overview
 
-## What's included
+This project showcases a complete e-commerce implementation with features including:
 
-- Remix
-- Hydrogen
-- Oxygen
-- Vite
-- Shopify CLI
-- ESLint
-- Prettier
-- GraphQL generator
-- TypeScript and JavaScript flavors
-- Minimal setup of components and routes
+- Responsive product catalog with category filtering
+- Custom product bundles and collections
+- Interactive product customization
+- Real-time search functionality
+- User authentication and account management
+- Shopping cart and checkout process
+- Blog integration for content marketing
+- Performance optimized image loading and caching
+- Mobile-first design approach
 
-## Getting started
+## Tech Stack
+
+- **Frontend Framework**: Remix + React
+- **E-commerce Platform**: Shopify Hydrogen
+- **Styling**: Tailwind CSS
+- **State Management**: React Context
+- **Animation**: Framer Motion
+- **API Integration**: GraphQL with Shopify Storefront API
+
+## Key Features
+
+### Product Management
+- Custom protein powder builder
+- Bundle product offerings
+- Goal-specific collections
+- Subscription options
+
+### User Experience
+- Responsive navigation
+- Real-time search
+- Personalized recommendations
+- Mobile-optimized interface
+
+### Content Integration
+- Blog articles
+- Educational content
+- Product reviews
+- Social proof elements
+
+## Getting Started
 
 **Requirements:**
-
 - Node.js version 18.0.0 or higher
 
 ```bash
